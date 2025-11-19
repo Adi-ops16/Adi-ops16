@@ -58,7 +58,7 @@ To become a **high-skilled Frontend + MERN Stack Developer** and contribute to r
   <img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/abdulhaib95581" target="_blank">
+<a href="https://twitter.com/AbdulHasib95581" target="_blank">
   <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
