@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/Adi-ops16/Adi-ops16/blob/main/github-header-banner.png?raw=true" alt="Adi Banner" />
+  <img width="100%" height="100%" src="https://github.com/Adi-ops16/Adi-ops16/blob/main/github-banner.png?raw=true" alt="Adi Banner" />
 </p>
 
 <!-- Typing Animation -->
