@@ -3,10 +3,10 @@
   <img width="100%" height="100%" src="https://github.com/Adi-ops16/Adi-ops16/blob/main/github-banner.png?raw=true" alt="Adi Banner" />
 </p>
 
+---
+
 <!-- Typing Animation -->
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=3BC3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdul+Hasib+Adi!;Frontend+Developer+%7C+MERN+Stack+Learner;JavaScript+%7C+React+%7C+Node.js;Welcome+To+My+GitHub+Profile+💙](https://i.ibb.co.com/7JDBNhZr/github-header-banner.png)" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=F0F7F0&center=true&vCenter=true&width=435&lines=Hi+I'am+Abdul+Hasib+ADI;A+junior+MERN+stack+developer+;Currently+learning+Next.js;Welcome+to+my+profile%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 ---
 
