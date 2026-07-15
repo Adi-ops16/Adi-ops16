@@ -15,7 +15,7 @@ I’m a passionate **Frontend Developer** and growing **MERN Stack Developer** f
 I love building fast, responsive, and user-friendly applications with clean and modern UI.
 
 ### 🚀 **What I’m Working On**
-- Mastering **React**, **Tailwind**, **Express**, **MongoDB**
+- Mastering **React**, **Postgresql**,**Prisma**,**Tailwind**, **Express**, **MongoDB**
 - Learning **Next.js** and **TypeScript**
 - Building full-stack projects to boost my skills
 
